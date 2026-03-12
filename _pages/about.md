@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Mathematics<br>Kennesaw State University<br>Email: pxiao4@kennesaw.edu
+subtitle: Department of Mathematics<br>Kennesaw State University
 
 profile:
   align: right
